@@ -693,8 +693,8 @@ return [
     'hetzner' => [
         'plans' => [
             [
-                'title' => 'CX11 Dedicated- 2 Cores - 8 Memory - 80 Disk',
-                'value' => 'CCX13',
+                'title' => 'CCX13 Dedicated- 2 Cores - 8 Memory - 80 Disk',
+                'value' => 'ccx13',
             ],
             [
                 'title' => 'CX11 - 1 Cores - 2 Memory - 20 Disk',
